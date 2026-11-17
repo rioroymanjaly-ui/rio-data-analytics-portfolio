@@ -1,0 +1,6 @@
+[
+  {"request_id":"SYN-001","message":"We need 250 kg steel for a test order. Reply to buyer@example.org."},
+  {"request_id":"SYN-002","message":"Can you quote 80 kg copper?"},
+  {"request_id":"SYN-003","message":"Is steel or aluminium available, 100 kg? Mail purchasing@example.net"},
+  {"request_id":"SYN-004","message":"Please quote 400 kg aluminum. Contact procurement@example.com"}
+]
