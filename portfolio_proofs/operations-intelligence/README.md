@@ -33,9 +33,9 @@ The fictional supplier **IN-BETA** has 45.0% on-time delivery and a 13.33% quali
 
 ## Technical evidence
 
-The companion downloadable source package contains the generator, input validation, Python metrics, four SQL investigations, 8 automated unit tests, Excel workbook and generated 1,800-row CSV. All 8 tests passed locally (17 November 2026).
+This repository includes a reproducible Python generator, SQL investigations, and eight automated checks. The complete download package also includes the Excel dashboard and generated order-level CSV. The separate full pipeline passed 8 local tests on 17 November 2026.
 
-**Reproduce locally:** `python src/analyze.py` and `python -m unittest discover -s tests -v`.
+**Reproduce the published implementation:** From this directory run `python operations.py` and `python -m unittest -v test_operations.py`. The downloadable full package also contains `src/analyze.py` and its own tests.
 
 **Limits:** Synthetic fixed-seed fixtures, no live ERP/CRM integrations, no supplier APIs, no predictive claims, no deployed production system, and no proprietary code.
 
