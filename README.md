@@ -9,6 +9,10 @@ This repository collects my academic and portfolio analytics work. I kept the st
 
 **[View public, reproducible buyer-request triage demo](portfolio_proofs/lead-ops-automation/README.md)** — independent Python prototype using synthetic requests; 8/8 local unit tests passed. It extracts basic request fields, records evidence, detects ambiguous or missing details and requires human review before commercial action. No LLM, live deployment, private RUIYA source or customer data is involved.
 
+## Business analytics flagship
+
+**[RUIYA Operations Intelligence — Supplier & Fulfilment Analytics](portfolio_proofs/operations-intelligence/README.md)** | Python, SQLite SQL, Excel: synthetic order-level operations case study, supplier SLA and defect scorecards, cost variance, reproducible test suite, management decisions and limitations. All business records are simulated.
+
 ## Projects
 
 ### 1. Solar Sales Funnel & Operations Analytics
