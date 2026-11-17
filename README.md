@@ -4,6 +4,11 @@ MSc Data Analytics student in Berlin.
 
 This repository collects my academic and portfolio analytics work. I kept the structure simple so each project can be opened independently.
 
+
+## Featured portfolio proof — Lead Operations Automation (November 2026)
+
+**[View public, reproducible buyer-request triage demo](portfolio_proofs/lead-ops-automation/README.md)** — independent Python prototype using synthetic requests; 8/8 local unit tests passed. It extracts basic request fields, records evidence, detects ambiguous or missing details and requires human review before commercial action. No LLM, live deployment, private RUIYA source or customer data is involved.
+
 ## Projects
 
 ### 1. Solar Sales Funnel & Operations Analytics
